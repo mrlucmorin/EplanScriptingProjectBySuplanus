@@ -1,4 +1,5 @@
-﻿using System;
+﻿//TODO: verify how to correctly add compiler directive
+using System;
 using System.Collections.Generic;
 using System.IO;
 using Eplan.EplApi.ApplicationFramework;
